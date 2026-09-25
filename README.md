@@ -1,4 +1,4 @@
-# 🧠 MindBridge — AI-Driven Mental Health Support Assistant
+# 🧠 MindBridge: AI-Driven Mental Health Support Assistant
 
 An AI-powered mental health support chatbot built with a Retrieval-Augmented Generation (RAG) pipeline, Groq's LPU-accelerated LLMs, and a proactive crisis-alert system.
 
