@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-groq
+gradio
+chromadb
+sentence-transformers
+pypdf
+
+
