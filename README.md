@@ -49,3 +49,9 @@ Python · LangChain · Groq API (Llama-3.3-70B) · ChromaDB · HuggingFace sente
 - `users.json` and `crisis_alerts.json` are created at runtime and are **not** included in this repo — they contain personal data and are excluded via `.gitignore`.
 - The `chroma_db/` vector store is also excluded; it's regenerated automatically from the PDFs in `data/` on first run.
 - This is a prototype/academic project and is not a substitute for professional mental health care.
+
+  ## Future Improvements
+
+- Add automated tests for core chatbot features.
+- Improve error handling for API failures.
+- Add clear documentation about data privacy and crisis alerts.
