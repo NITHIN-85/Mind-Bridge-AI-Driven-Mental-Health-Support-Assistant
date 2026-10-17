@@ -19,7 +19,7 @@ This project develops a mental health support chatbot utilizing Groq's LPU-power
 
 Python · LangChain · Groq API (Llama-3.3-70B) · ChromaDB · HuggingFace sentence-transformers · Gradio · SMTP
 
-## Setup
+## Setup or the installation instructions.
 
 1. Clone the repo and install dependencies:
    ```
